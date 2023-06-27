@@ -2,3 +2,13 @@ body
 {
     background-color: rgb(194, 194, 194);
 }
+
+.link
+{
+    padding: 30px;
+    background-color: rgb(168, 168, 168);
+    margin: 10px;
+    text-align: center;
+    list-style-type: none;
+    font-size: 20px;
+}
